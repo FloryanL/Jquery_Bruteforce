@@ -1,6 +1,6 @@
 /*Jquery*/
 
-var mdp = [];
+var mdp = []; //création d'un tableau vide
 
 $(document).ready(function() {
 	for (var i = 0; i < mdp.length; i++) {
