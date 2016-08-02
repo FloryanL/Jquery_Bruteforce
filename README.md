@@ -24,6 +24,7 @@ Les appels devront être réalisés sur mon site à l'url suivante :
  * http://raspberrypi.local/exercices/js_bruteforcing/
  * http://docusland.fr/code-academie/js_bruteforce/index.php 		
 
+
 Un paramètre est attendu `password` contenant le mot de passe associé
 
 
